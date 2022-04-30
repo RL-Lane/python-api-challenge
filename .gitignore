@@ -1,2 +1,11 @@
-# Adding config.py file.
 api_keys.py
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+config.py
+.DS_Store
+*/.DS_Store/*
+__pycache__
+*/__pycache__/*
+
+instructions.md
